@@ -1,4 +1,4 @@
-# Monaco Editor
+ # Monaco Editor
 
 [![Versions](https://img.shields.io/npm/v/monaco-editor)](https://www.npmjs.com/package/monaco-editor)
 [![Versions](https://img.shields.io/npm/v/monaco-editor/next)](https://www.npmjs.com/package/monaco-editor)
